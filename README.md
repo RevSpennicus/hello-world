@@ -1,3 +1,3 @@
 # hello-world
 
-Hi
+Hi, my name is Spencer Smith, also known as RevSpennicus. I am a 22 year old Canadian who has always had a fascination with computers and software in particular, but never really took the time to make a serious effort at learning to code until now. In the past I would try learning different languages and give up as soon as I came across any issues that I couldn't immediately figure out. Now, after I have worked at several different jobs that I despised for different reasons, I have decided to once again try learning to program, and I am taking it much more seriously and already feel as though I have learned and grown so much more than ever before. I am currently focusing on Java programming, but it's hard to say where this coding journey will take me next. 
